@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fourth intelligence from Reading. Dated from his Excellency his quarters in Reading, April the last, at 5 a clock at night. Wherein is the certain relation of the taking of Hereford by Sir William Waller.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74245</idno>
+            <idno type="STC">Thomason E100_7</idno>
+            <idno type="STC">ESTC P1069</idno>
+            <idno type="EEBO-CITATION">55081551</idno>
+            <idno type="OCLC">ocm 55081551</idno>
+            <idno type="VID">155857</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155857)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E100[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fourth intelligence from Reading. Dated from his Excellency his quarters in Reading, April the last, at 5 a clock at night. Wherein is the certain relation of the taking of Hereford by Sir William Waller.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Gellibrand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 1 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within ornamental border.</note>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hereford (England) --  Siege, 1643.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155857:1" rendition="simple:additions"/>
+            <p> 
+               <hi>Mercurius Bellicus.</hi> The fourth INTELLIGENCE FROM READING.</p>
+            <p>Dated from His Excellency His Quarters in <hi>Reading, April</hi> the laſt, at 5 a clock at night.</p>
+            <p>Wherein is the certain Relation of the taking of HEREFORD by Sir <hi>William Waller.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Samuel Gellibrand, May</hi> 1. 1643.</p>
+            <pb n="3" facs="tcp:155857:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155857:2"/>
+            <head>
+               <hi>Mercurius Bellicus. April</hi> 30.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Think you have now been ſuffi<g ref="char:EOLhyphen"/>ciently abuſed by variety of re<g ref="char:EOLhyphen"/>ports, I ſhall ſpend ſome time in your relief: Our friends, doubt<g ref="char:EOLhyphen"/>leſſe, ſome through kindnes, ſome through curioſity, deſire to know how we do. Its true our preſent Vacation affords not much, but ſomething you will finde obſervable ſince my laſt of <hi>April</hi> 26. On Thurſday toward noon we entred the Town of <hi>Rea<g ref="char:EOLhyphen"/>ding,</hi> out of which we ſaw, and ſome upon account juſtifie, above 4000 men march, well armed, and for ought we know, reſolved, if men can be well reſolv<g ref="char:EOLhyphen"/>ed in ſuch a cauſe: I occaſioned ſome wonder, that being ſo ſtrong, they ſallied not, and that they yeeld<g ref="char:EOLhyphen"/>ed the Towne, when doubtleſſe they might have kept it: the beſt reaſon of the ſurrender I can finde upon enquirie, is this; That the Governour, who was equallie covetous and cruell, together with ſome of the chief Commanders, who had made very great gain of Plunders and Taxes, were afraid to put it to
+<pb n="4" facs="tcp:155857:3"/> the hazard: Which opinion I am confirmed in by the certain relation we had of an endeavour to convey it away two dayes before the Parley. I believe your <hi>Oxford Mercury</hi> will tell you a ſad ſtorie of our breach of the agreement, and the incivility of our Souldi<g ref="char:EOLhyphen"/>ers: Its confeſt ſome things were not well, but worſe was feared; and upon a juſt enquiry themſelves will be found the firſt breakers of the Articles, in carry<g ref="char:EOLhyphen"/>ing away unlawfull Baggage, beſides women, of which that great, though not good ſtore, as Arms and Ammunition to ſpare: ſome of the Pike-men carried Powder and Match, and their Waggons un<g ref="char:EOLhyphen"/>lawfullie loaden. The worſt was done was the chan<g ref="char:EOLhyphen"/>ging hats, taking away ſome Arms; and ſome unruly fellows took clothes which I know no man will ex<g ref="char:EOLhyphen"/>cuſe. I am ſure the Officers, and all thoſe from whom reaſon might be expected, did their utmoſt to prevent it. Upon the entrance of the Town, we finde the people had been uſed with more then Turk<g ref="char:EOLhyphen"/>iſh ſeverity, being frequently baſtinadoed, impriſon<g ref="char:EOLhyphen"/>ed, aſſeſſed 2000 pounds a Month, according to the known Laws of the Land, which the Governour was well skill'd in, in regard o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his familiarity with a Lawyers wife where he quart<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red. They ſeem very glad of our coming, but not willing to entertain any Propoſitions of Money according to the Ordinances of Parliament; which yet muſt not be neglected in ſome proportion, though we came but to the latter fair. On Friday we had experience of a mutinous diſpoſition in our Souldiers, who began to plunder ſome notorious malignants; but His Excellency; who
+<pb n="5" facs="tcp:155857:3"/> rode out three times that day, once from dinner, to ap<g ref="char:EOLhyphen"/>peaſe and prevent them, and the Major Generall, and other Officers, did their beſt to hinder it; and there was little hurt done, onely in the Shop of one <hi>Duell,</hi> a man of ill fame as to this buſineſſe. The winde is now down, and the waves ſtill, the <hi>12s.</hi> reward pro<g ref="char:EOLhyphen"/>miſed, being performed, on Saturday the new pay<g ref="char:EOLhyphen"/>maſters entred their Office by Commiſſion, which I hope will be digeſted, though it lie upon the ſtomack a while. Your next expectation is when we advance, that is mine too: ſome of our Commanders are at <hi>London,</hi> I need not tell you their Errand; only ſuggeſt better any thing on this ſide ruine done or ſuffered, then we lie ſtill at this preſent: This day was ap<g ref="char:EOLhyphen"/>pointed for a thankſgiving for the preſervation &amp; pro<g ref="char:EOLhyphen"/>ſperous ſtate of the Army, which was much quickned by intelligence received from <hi>Devon,</hi> &amp; <hi>Hereford.</hi> From Devonſhire we had news of my Lord <hi>Stamfords</hi> for<g ref="char:EOLhyphen"/>ces routing <hi>Hoptons,</hi> but there was ſuch a rout and confuſion in the letter, ſo that I can make no perfect relation, onely give grounds of good hopes of our affairs in thoſe parts. But from <hi>Hereford</hi> where Sir <hi>William Waller</hi> is we had a happy and exact Relation, which to my beſt remembrance is this; That upon Sunday laſt he marched from Glouceſter toward He<g ref="char:EOLhyphen"/>reford with his forces to quiet that Country before he came this way, He ſhot three Peeces at the City on Munday morning, and then ſummon'd it by a Trum<g ref="char:EOLhyphen"/>pet, to which <hi>Cunningſby</hi> their Governour returned this anſwer; That if he could ſhew a Commiſſion from the King, they would ſurrender it to him, other<g ref="char:EOLhyphen"/>wiſe
+<pb n="6" facs="tcp:155857:4"/> they would keep it for him. Thereupon he aſ<g ref="char:EOLhyphen"/>ſaulted the Town in three ſeverall places, and ſome ſallies and conteſtations there were; but before three of the clock, their Sallie was turned to a Parley, and two were ſent out of the Town to Sir <hi>William Waller,</hi> who ſent likewiſe two to them, offering them Quarter and no more. <hi>Herbert Price</hi> a Commander there came out and brought other Articles with ſome high language, but Sir <hi>William</hi> ſtuck ſtrictly to his firſt Propoſition, which after ſome injurious detention of his Hoſtages, they yeelded to, only their Court<g ref="char:EOLhyphen"/>ſhip would have ſome complementall formes added to his rough demand; That Gentlemen ſhould have Quarter and civill uſage, Ladies be treated honora<g ref="char:EOLhyphen"/>bly, the Citizens, Biſhop, Dean and Chapter preſer<g ref="char:EOLhyphen"/>ved from Plunder, and not impriſoned for any thing paſt; That Arms, Enſigns, Ammunition and the Government of the Town ſhould be ſurrendred to him, which was done on Tuſeday morning: Hee tooke ſome perſons of quality, as <hi>Conningſby, Price,</hi> Sir <hi>William Crofts,</hi> Sir <hi>Richard Cave,</hi> and others, the Lord <hi>Scudamore:</hi> who was not ſent to Glouceſter with the reſt, but his honorable word taken to appear at the Cloſe Committee upon ſummons, and all this (through mercy) with the loſſe of one man, &amp; hurt of 3 or 4 ſouldiers; ſo wonderfully doth God go along with the endeavors of this valiant &amp; vigilant Co<g ref="char:cmbAbbrStroke">̄</g>man<g ref="char:EOLunhyphen"/>der. But let us now take heed of giving way to the fraud of our enemies, who ſtrive to draw out of every advantage, a diſadvantage to us, and to ſet up a part of an Army in oppoſition to that Army whereof it is a
+<pb n="7" facs="tcp:155857:4"/> part: As I hope we ſhall be free from envy, ſo be you from jealouſie. That the terms of <hi>Reading</hi> were not the like with <hi>Hereford; Reading</hi> was better For<g ref="char:EOLhyphen"/>tified and manned, had an Army of the enemy neere for reliefe; and which is very conſiderable, We up<g ref="char:EOLhyphen"/>on whoſe welfare the being of this Cauſe doth much depend (to ſpeak of humane means) muſt not be ſo adventurous as others may, who upon a misfortune may addreſſe to us for ſupplies, we to none elſe. Let us bleſſe God for each other, and you for us both; if you help on our march, I hope we ſhall meet ere long upon good terms. I can adde little concerning the enemy; The King is gone from <hi>Wallingford</hi> to <hi>Oxford,</hi> He calls in the people from ſixteen to ſixty, and all kind of Arms; They have at this preſent more than a pannicke feare upon them, one man gave them an Alarm at <hi>Wallingford</hi> on Satturday, that confounded the conſultations of the Councell of Warre then ſitting, and diſperſed them. We have ſome in<g ref="char:EOLhyphen"/>timations of the KINGS advancing for Wilt<g ref="char:EOLhyphen"/>ſhire. The Earle of <hi>Stamford</hi> ſent us a letter intercepted to <hi>Hopton,</hi> commanding to March, to horſe his Muskets &amp; Pikes too according to the ex<g ref="char:EOLhyphen"/>ample of the Rebels, who ſwept the Commo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> where they came (an unjuſt ſlander) the letter was writ in Tiffany, with another letter ſigned <hi>Charles R.</hi> Wherein it is likewiſe promiſed, That upon his ap<g ref="char:EOLhyphen"/>proach, a conſiderable party of horſe ſhall be ſent to ſtrengthen his paſſage through Somerſetſhire, but I hope this is prevented: We intercepted ſome Letters which extreamly miſ-report our affairs, but that is
+<pb n="8" facs="tcp:155857:5"/> no more than we expected, though I hope more than will be believed; They were going into Wiltſhire with a protection for ſome perſons there, againſt the time that the Kings Forces ſhould march that way. I know no more of conſequence for the preſent, with things impertinent, triviall, or of ſuſpected truth I will not trouble you, but reſt till the next oppor<g ref="char:EOLhyphen"/>tunitie.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
